@@ -1,9 +1,9 @@
-<!-- <h1 align="center">Hi 👋, I'm Soubhagya Darshan Rout</h1>
+<h1 align="center">Hi 👋, I'm Soubhagya Darshan Rout</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagyarout19&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagyarout19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soubhagyarout19" alt="soubhagyarout19" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soubhagyarout19" alt="soubhagyarout19" /></a> </p> -->
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soubhagyarout19&show_icons=true&locale=en&layout=compact" alt="soubhagyarout19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagyarout19&show_icons=true&locale=en" alt="soubhagyarout19" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagyarout19&show_icons=true&locale=en" alt="soubhagyarout19" /></p>
