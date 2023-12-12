@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soubhagyarout19" alt="soubhagyarout19" /></a> </p> -->
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
